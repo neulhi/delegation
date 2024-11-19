@@ -21,6 +21,8 @@ const data = [
   },
 ];
 
+// - jQuery delegation
+
 {
   // jQuery
   /*

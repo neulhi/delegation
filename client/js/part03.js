@@ -21,6 +21,8 @@ const data = [
   },
 ];
 
+// - swiper slide
+
 const template = (index, className) => `
         <span class="${className}">
           <img src="./assets/part01/${data[index].src}" alt="${data[index].alt}" />

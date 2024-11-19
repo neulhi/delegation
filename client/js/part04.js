@@ -1,3 +1,5 @@
+// - SNS
+
 const content = getNode('.contents');
 // const likeBtn = getNode('.like_btn');
 const textField = getNode('#comment37');

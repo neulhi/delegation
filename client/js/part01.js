@@ -21,6 +21,8 @@ const data = [
   },
 ];
 
+// - vanilla delegation
+
 const navigation = getNode('.navigation');
 const img = getNode('.visual img');
 
